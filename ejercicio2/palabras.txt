@@ -1,0 +1,10 @@
+padre
+perro
+hombre
+telefono
+dormitorio
+dinero
+ordenador
+coche
+juego
+medicina
